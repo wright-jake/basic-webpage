@@ -1,2 +1,2 @@
 # basic-webpage
-Basic Webpage I built after working through the 'Responsive Web Design' section on freeCodeCamp
+Basic webpage that I built after working through the 'Responsive Web Design' section on freeCodeCamp
